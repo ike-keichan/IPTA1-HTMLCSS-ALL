@@ -1,2 +1,2 @@
-# InformationProcessingPracticeApplication1
+# University-IPPA1
 大学二回生春の情報処理実習（応用1）で作成したコードです。
